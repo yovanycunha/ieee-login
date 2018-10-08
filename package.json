@@ -1,0 +1,15 @@
+{
+  "name": "ieee",
+  "version": "1.0.0",
+  "description": "Prototipagem de algumas telas para o projeto dos Guardians em parceria com o ramo estudantil do IEEE - UFCG",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Yovany Cunha",
+  "license": "ISC",
+  "devDependencies": {
+      "node-sass": "^4.9.3"
+  },
+  "dependencies": {}
+}
