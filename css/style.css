@@ -164,7 +164,7 @@ body {
 .login {
   background-size: cover;
   background-position: center;
-  height: 60vh;
+  height: cover;
   background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(../img/ieee-login.jpg);
   border-radius: .3rem;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2); }
